@@ -3,14 +3,14 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: 39364
+PreviewTime:39364
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
-SpecialStyle: 0
 WidescreenStoryboard: 1
+SpecialStyle: 0
 
 [Editor]
 Bookmarks: 214,1414,11014,20614,30214,39814,49414,57814
@@ -27,7 +27,7 @@ ArtistUnicode:斎川唯（CV: 高尾奏音）
 Creator:Drum-Hitnormal
 Version:Easy
 Source:探偵はもう、死んでいる。
-Tags:La detective esta muerta. Tanmoshi The Detective Is Already Dead Tantei wa mou, Shindeiru. dudehacker ML-ysg Matthewwwwww anime japanese jpop pop Insert song 音楽大全 Ongaku Taizen
+Tags:La detective esta está muerta. Tanmoshi The Detective Is Already Dead Tantei wa mou, mō, Shindeiru. Shinde Iru. dudehacker ML-ysg Matthewwwwww anime japanese jpop j-pop pop Insert song 音楽大全 Ongaku Taizen
 BeatmapID:3235857
 BeatmapSetID:1578629
 
@@ -241,8 +241,8 @@ Sample,57514,0,"Clap.wav",40
 64,192,35014,128,6,35314:0:0:0:0:
 448,192,35014,1,8,0:0:0:0:
 320,192,35314,1,10,0:0:0:0:
-192,192,35614,1,12,0:0:0:0:
 448,192,35614,128,2,35914:0:0:0:0:
+192,192,35614,1,12,0:0:0:0:
 64,192,35914,1,10,0:0:0:0:
 192,192,36214,1,10,0:0:0:0:
 320,192,36214,128,4,36514:0:0:0:0:
@@ -255,8 +255,8 @@ Sample,57514,0,"Clap.wav",40
 448,192,37714,1,0,0:0:0:0:
 320,192,38014,128,14,38314:0:0:0:0:
 64,192,38314,1,0,0:0:0:0:
-320,192,38614,1,10,0:0:0:0:
 448,192,38614,128,4,39214:0:0:0:0:
+320,192,38614,1,10,0:0:0:0:
 320,192,39364,1,2,0:0:0:0:
 192,192,39514,1,2,0:0:0:0:
 64,192,39664,1,2,0:0:0:0:
@@ -298,8 +298,8 @@ Sample,57514,0,"Clap.wav",40
 64,192,48664,1,8,0:0:0:0:
 320,192,48814,128,2,49114:0:0:0:0:
 192,192,49114,128,2,49414:0:0:0:0:
-320,192,49414,128,6,49714:0:0:0:0:
 448,192,49414,1,8,0:0:0:0:
+320,192,49414,128,6,49714:0:0:0:0:
 64,192,49714,1,10,0:0:0:0:
 192,192,50014,128,10,50314:0:0:0:0:
 448,192,50014,1,4,0:0:0:0:
@@ -313,8 +313,8 @@ Sample,57514,0,"Clap.wav",40
 64,192,51814,1,10,0:0:0:0:
 320,192,51814,128,4,52114:0:0:0:0:
 192,192,52114,128,10,52414:0:0:0:0:
-320,192,52414,1,10,0:0:0:0:
 448,192,52414,128,4,52714:0:0:0:0:
+320,192,52414,1,10,0:0:0:0:
 64,192,52714,128,10,53014:0:0:0:0:
 320,192,53014,128,10,53314:0:0:0:0:
 192,192,53314,128,10,53614:0:0:0:0:
