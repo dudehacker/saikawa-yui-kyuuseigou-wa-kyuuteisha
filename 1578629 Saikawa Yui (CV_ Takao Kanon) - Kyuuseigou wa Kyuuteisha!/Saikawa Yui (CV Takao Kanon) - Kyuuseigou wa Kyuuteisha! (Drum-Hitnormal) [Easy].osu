@@ -3,14 +3,14 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: 39364
+PreviewTime:39364
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
-SpecialStyle: 0
 WidescreenStoryboard: 1
+SpecialStyle: 0
 
 [Editor]
 Bookmarks: 214,1414,11014,20614,30214,39814,49414,57814
@@ -27,7 +27,7 @@ ArtistUnicode:斎川唯（CV: 高尾奏音）
 Creator:Drum-Hitnormal
 Version:Easy
 Source:探偵はもう、死んでいる。
-Tags:La detective esta está muerta. Tanmoshi The Detective Is Already Dead Tantei wa mou, mō, Shindeiru. Shinde Iru. dudehacker ML-ysg Matthewwwwww anime japanese jpop j-pop pop Insert song 音楽大全 Ongaku Taizen
+Tags:La detective esta está muerta. Tanmoshi The Detective Is Already Dead Tantei wa mou, mō, Shindeiru. Shinde Iru. dudehacker ML-ysg Matthewwwwww anime japanese jpop j-pop pop Insert song 音楽大全 Ongaku Taizen ENGI SNCL-45~46 SNCL-47 Nor
 BeatmapID:3235857
 BeatmapSetID:1578629
 
@@ -153,8 +153,8 @@ Sample,57514,0,"Clap.wav",40
 448,192,10264,128,0,10564:0:0:0:0:
 192,192,10564,1,8,0:0:0:0:
 320,192,10714,1,10,0:0:0:0:
-64,192,11014,1,2,0:0:0:0:
 192,192,11014,1,4,0:0:0:0:
+64,192,11014,1,2,0:0:0:0:
 320,192,11314,1,10,0:0:0:0:
 192,192,11614,1,2,0:0:0:0:
 320,192,11914,1,10,0:0:0:0:
@@ -242,8 +242,8 @@ Sample,57514,0,"Clap.wav",40
 192,192,34414,1,2,0:0:0:0:
 448,192,34564,1,8,0:0:0:0:
 320,192,34714,1,10,0:0:0:0:
-64,192,35014,128,6,35314:0:0:0:0:
 448,192,35014,1,8,0:0:0:0:
+64,192,35014,128,6,35314:0:0:0:0:
 320,192,35314,1,10,0:0:0:0:
 192,192,35614,1,12,0:0:0:0:
 448,192,35614,128,2,35914:0:0:0:0:
