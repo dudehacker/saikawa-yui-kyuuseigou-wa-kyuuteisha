@@ -3,14 +3,14 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime:39364
+PreviewTime: 39364
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
-WidescreenStoryboard: 1
 SpecialStyle: 0
+WidescreenStoryboard: 1
 
 [Editor]
 Bookmarks: 214,1414,11014,20614,30214,39814,49414,57814
@@ -288,9 +288,10 @@ Sample,57514,0,"Clap.wav",40
 448,192,44914,1,10,0:0:0:0:
 320,192,45214,128,2,45514:0:0:0:0:
 192,192,45514,1,10,0:0:0:0:
-448,192,45814,128,6,46114:0:0:0:0:
+448,192,45814,1,4,0:0:0:0:
+320,192,45814,1,2,0:0:0:0:
 64,192,46114,1,10,0:0:0:0:
-320,192,46264,1,0,0:0:0:0:
+448,192,46264,1,0,0:0:0:0:
 192,192,46714,1,10,0:0:0:0:
 448,192,47014,128,6,47314:0:0:0:0:
 64,192,47314,128,10,47614:0:0:0:0:
