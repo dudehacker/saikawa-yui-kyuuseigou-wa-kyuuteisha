@@ -49,6 +49,7 @@ SliderTickRate:1
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
+
 Sample,664,0,"Cymbal.wav",50
 Sample,739,0,"Cymbal.wav",50
 Sample,814,0,"Cymbal2.wav",50
@@ -62,11 +63,10 @@ Sample,51364,0,"Clap.wav",40
 Sample,53914,0,"Clap Snare.wav",70
 
 [TimingPoints]
-214,300,4,2,1,50,1,0
-
+214,300.0,4,2,1,50,1,0
 
 [HitObjects]
-64,192,214,5,2,0:0:0:0:
+64,192,214,1,2,0:0:0:0:
 448,192,214,1,4,0:0:0:0:
 320,192,364,1,2,0:0:0:0:
 192,192,514,1,2,0:0:0:0:
